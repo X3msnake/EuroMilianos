@@ -1,4 +1,4 @@
-* Tradução Portuguesa via GPT-CHAT: **[> AQUI <](/README-PT.md) *** 
+*Tradução Portuguesa via GPT-CHAT: **[> AQUI <](/README-PT.md)*** 
 
 ----
 
