@@ -1,3 +1,7 @@
+Tradução Portuguesa via GPT-CHAT: **[> AQUI <](/README-PT.md)*** 
+
+----
+
 # EuroMilianos
 ### Simple random number generator for the european lottery euromilhões
 
