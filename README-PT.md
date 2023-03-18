@@ -31,5 +31,6 @@ Foi aí que o PAGE (Python Automatic GUI Generator) entrou em ação.
 
 A UI foi construída com o PAGE e, em seguida, pedi ao GPT que a adaptasse para funcionar com os ficheiros gerados pelo PAGE. Foi necessário algum esforço extra para direcionar corretamente o script de código PAGE, nomeadamente como direcionar corretamente as etiquetas, foi uma questão de seguir o exemplo que o PAGE gera e adaptá-lo às suas convenções de nomenclatura.
 
+----
 
-Traduzido automáticamente pelo GPT-CHAT a partir do original em Inglês: [> AQUI <](/README.md)
+*Traduzido automáticamente pelo GPT-CHAT a partir do original em Inglês: **[> AQUI <](/README.md)***
