@@ -1,4 +1,4 @@
-*NOTA: este texto foi traduzido na sua totalidade automaticamente pelo GPT4-CHAT*
+*NOTA: este texto foi traduzido na sua totalidade automaticamente pelo GPT4-CHAT, tb conhecido por GPETAS ou GPT-Richards*
 
 
 # EuroMilianos
