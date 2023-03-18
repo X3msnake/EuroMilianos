@@ -1,3 +1,6 @@
+*NOTA: este texto foi traduzido na sua totalidade automaticamente pelo GPT4-CHAT*
+
+
 # EuroMilianos
 ### Gerador simples de números aleatórios para o Euromilhões
 
